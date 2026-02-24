@@ -1,0 +1,16 @@
+Gene1,Gene2,Type
+Fgf8,Emx2,-
+Fgf8,Pax6,+
+Fgf8,Sp8,+
+Fgf8,Coup_tfi,-
+Emx2,Fgf8,-
+Emx2,Pax6,-
+Emx2,Coup_tfi,+
+Pax6,Sp8,+
+Pax6,Emx2,-
+Pax6,Coup_tfi,-
+Coup_tfi,Fgf8,-
+Coup_tfi,Pax6,-
+Coup_tfi,Sp8,-
+Sp8,Coup_tfi,-
+Sp8,Emx2,-
