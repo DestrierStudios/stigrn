@@ -2,7 +2,7 @@
 
 A framework for detecting early warning signals of critical transitions in biological systems using spectral properties of time-varying gene regulatory networks inferred from single-cell transcriptomic data.
 
-**Paper:** Saxena N. Spectral Properties of Gene Regulatory Network Topology Provide Early Warning Signals for Critical Transitions in Cell Fate Decisions. *Submitted to PLoS Computational Biology*, 2026.
+**Paper:** Saxena N. Spectral Properties of Gene Regulatory Network Topology Provide Early Warning Signals for Critical Transitions in Cell Fate Decisions. 2026.
 
 ## Overview
 
@@ -123,7 +123,7 @@ If you use STIGRN in your research, please cite:
 ```
 Saxena N. Spectral Properties of Gene Regulatory Network Topology Provide
 Early Warning Signals for Critical Transitions in Cell Fate Decisions.
-PLoS Computational Biology (submitted), 2026.
+2026.
 ```
 
 ## Author
